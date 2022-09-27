@@ -17,7 +17,7 @@ const paddle = {
    height: 15,
    speed: 0,
    
-   //パドルの描画
+   //パドル描画
    update: function() {
       ctx.fillRect(this.x, this.y, this.width, this.height);
       ctx.fill();
