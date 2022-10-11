@@ -140,4 +140,4 @@ document.addEventListener('keyup', () => {
    paddle.speed = 0;
 });//キーを離した時の処理
 
-//git test
+//git test2
