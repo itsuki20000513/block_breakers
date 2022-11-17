@@ -1,4 +1,4 @@
-import {canvas} from "../app/main.js"
+import {canvas} from "../app/main.js";
 import {paddle, ball, block, level} from "../src/src.js";
 
 export const init = () => {

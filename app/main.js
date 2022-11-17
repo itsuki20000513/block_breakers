@@ -25,3 +25,5 @@ document.addEventListener('keydown', e => {  //addEventListener -> マウスや�
 document.addEventListener('keyup', () => {
    paddle.speed = 0;
 });
+
+//git test
